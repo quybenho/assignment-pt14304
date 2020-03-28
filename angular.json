@@ -34,8 +34,8 @@
             "scripts": [
               "src/js/bootstrap-3.1.1.min.js",
               "src/js/jquery.min.js",
-              "src/js/bootstrap.css",
-              "src/js/bootstrap.css"
+              "src/js/simpleCart.min.js",
+              "src/js/wow.min.js"
             ]
           },
           "configurations": {
