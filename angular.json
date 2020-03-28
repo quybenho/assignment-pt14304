@@ -23,12 +23,20 @@
               "src/assets"
             ],
             "styles": [
-              "src/css/bootstrap.min.css",
-              "src/css/font-awesome.min.css",
+              "src/css/bootstrap.css",
+              "src/css/flexslider.css",
               "src/css/style.css",
+              "src/css/animate.min.css",
+              "src/css/owl.carousel.css",
+              
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/js/bootstrap-3.1.1.min.js",
+              "src/js/jquery.min.js",
+              "src/js/bootstrap.css",
+              "src/js/bootstrap.css"
+            ]
           },
           "configurations": {
             "production": {
